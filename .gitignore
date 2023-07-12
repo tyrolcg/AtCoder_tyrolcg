@@ -5,3 +5,6 @@ riderModule.iml
 /_ReSharper.Caches/
 .idea
 x64/
+*.vcxproj
+*.filters
+AtCoder.sln
