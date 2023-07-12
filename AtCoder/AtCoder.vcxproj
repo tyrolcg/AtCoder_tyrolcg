@@ -154,9 +154,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ABC309\A.cpp" />
-    <ClCompile Include="ABC309\B.cpp" />
     <ClCompile Include="AtCoder.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ABC309" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
