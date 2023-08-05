@@ -156,6 +156,7 @@
   <ItemGroup>
     <ClCompile Include="ABC262\A.cpp" />
     <ClCompile Include="ABC262\B.cpp" />
+    <ClCompile Include="ABC262\C.cpp" />
     <ClCompile Include="ABC308\A.cpp" />
     <ClCompile Include="AtCoder.cpp" />
   </ItemGroup>
