@@ -5,7 +5,7 @@
 
 using namespace std;
 
-bool isMach(char c){
+bool isMatch(char c){
     if(c=='a' || c=='e' || c=='i' || c=='o' || c=='u'){
         return true;
     }
@@ -18,7 +18,7 @@ int main(){
     int n = s.size();
     string ans = "";
     for(int i=0;i < n;i++){
-        if(!isMach(s[i])){
+        if(!isMatch(s[i])){
             ans += s[i];
         }
     }
