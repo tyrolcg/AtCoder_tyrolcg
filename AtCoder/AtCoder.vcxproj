@@ -162,6 +162,12 @@
     <ClCompile Include="ABC313\B.cpp" />
     <ClCompile Include="ABC315\A.cpp" />
     <ClCompile Include="ABC315\B.cpp" />
+    <ClCompile Include="ABC315\C.cpp" />
+    <ClCompile Include="ABC315\D.cpp" />
+    <ClCompile Include="ABC317\A.cpp" />
+    <ClCompile Include="ABC317\B.cpp" />
+    <ClCompile Include="ABC317\C.cpp" />
+    <ClCompile Include="ABC317\D.cpp" />
     <ClCompile Include="AtCoder.cpp" />
   </ItemGroup>
   <ItemGroup>
