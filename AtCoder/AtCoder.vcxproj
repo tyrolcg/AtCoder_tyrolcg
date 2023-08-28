@@ -169,7 +169,8 @@
     <ClCompile Include="ABC317\C.cpp" />
     <ClCompile Include="ABC317\D.cpp" />
     <ClCompile Include="ABS\ABS1.cpp" />
-    <ClCompile Include="ABS\B.cpp" />
+    <ClCompile Include="ABS\ABS2.cpp" />
+    <ClCompile Include="ABS\ABS3.cpp" />
     <ClCompile Include="AtCoder.cpp" />
   </ItemGroup>
   <ItemGroup>
