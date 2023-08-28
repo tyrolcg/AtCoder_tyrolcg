@@ -159,6 +159,7 @@
     <ClCompile Include="ABC083\B.cpp" />
     <ClCompile Include="ABC086\A.cpp" />
     <ClCompile Include="ABC087\B.cpp" />
+    <ClCompile Include="ABC088\B.cpp" />
     <ClCompile Include="ABC262\A.cpp" />
     <ClCompile Include="ABC262\B.cpp" />
     <ClCompile Include="ABC262\C.cpp" />
