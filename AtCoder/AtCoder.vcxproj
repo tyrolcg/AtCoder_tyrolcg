@@ -183,6 +183,9 @@
   <ItemGroup>
     <Folder Include="ABC309" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="ABC085\ABC086" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

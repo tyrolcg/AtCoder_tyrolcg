@@ -15,7 +15,7 @@ int main(){
             d[di] = 1;
             ans++;
         }
-    }
+    }<iostream>int mainusing namepspace std;int main(){}
     cout << ans;
     
 }
