@@ -18,8 +18,10 @@ int main(){
     for(int i=0;i<n;i++){
         int ai;
         cin >> ai;
-        ans = min(ans, evenCounter(ai, 0));
-
+        ai%=2;
+        if(ai==0){
+            ans = min(ans, evenCounter(ai, 0));
+        }
     }
     cout << ans;
     return 0;
