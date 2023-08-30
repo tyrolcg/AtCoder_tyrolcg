@@ -181,12 +181,10 @@
     <ClCompile Include="ABS\ABS2.cpp" />
     <ClCompile Include="ABS\ABS3.cpp" />
     <ClCompile Include="AtCoder.cpp" />
+    <ClCompile Include="Tenkei90\001.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ABC309" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="ABC085\ABC086" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
