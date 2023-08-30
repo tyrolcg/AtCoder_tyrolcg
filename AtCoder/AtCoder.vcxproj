@@ -185,6 +185,7 @@
     <ClCompile Include="Tenkei90\002.cpp" />
     <ClCompile Include="Tenkei90\003.cpp" />
     <ClCompile Include="Tenkei90\004.cpp" />
+    <ClCompile Include="Tenkei90\007.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ABC309" />
