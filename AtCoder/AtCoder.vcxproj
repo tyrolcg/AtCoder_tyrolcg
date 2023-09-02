@@ -177,6 +177,8 @@
     <ClCompile Include="ABC317\B.cpp" />
     <ClCompile Include="ABC317\C.cpp" />
     <ClCompile Include="ABC317\D.cpp" />
+    <ClCompile Include="ABC318\A.cpp" />
+    <ClCompile Include="ABC318\B.cpp" />
     <ClCompile Include="ABS\ABS1.cpp" />
     <ClCompile Include="ABS\ABS2.cpp" />
     <ClCompile Include="ABS\ABS3.cpp" />
