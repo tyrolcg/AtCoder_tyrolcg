@@ -184,6 +184,9 @@
     <ClCompile Include="ABC319\A.cpp" />
     <ClCompile Include="ABC319\B.cpp" />
     <ClCompile Include="ABC319\C.cpp" />
+    <ClCompile Include="ABC320\A.cpp" />
+    <ClCompile Include="ABC320\B.cpp" />
+    <ClCompile Include="ABC320\C.cpp" />
     <ClCompile Include="ABS\ABS1.cpp" />
     <ClCompile Include="ABS\ABS2.cpp" />
     <ClCompile Include="ABS\ABS3.cpp" />
