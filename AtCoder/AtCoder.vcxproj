@@ -155,6 +155,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ABC049\C.cpp" />
+    <ClCompile Include="ABC065\B.cpp" />
     <ClCompile Include="ABC081\A.cpp" />
     <ClCompile Include="ABC081\B.cpp" />
     <ClCompile Include="ABC083\B.cpp" />
