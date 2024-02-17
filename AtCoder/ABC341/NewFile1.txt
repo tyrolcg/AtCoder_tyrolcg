@@ -1,0 +1,55 @@
+2 2
+next2 1
+2 3
+next2 2
+current2 2:is ground
+next3 2
+2 4
+next2 3
+current2 3:is ground
+next3 3
+current3 3:is ground
+next3 2
+2 6
+next2 5
+3 3
+next3 2
+3 4
+next3 3
+current3 3:is ground
+next4 3
+3 5
+next3 4
+current3 4:is ground
+next4 4
+current4 4:is ground
+next4 3
+4 2
+next4 1
+4 4
+next4 3
+4 5
+next4 4
+current4 4:is ground
+next5 4
+current5 4:is ground
+next5 3
+current5 3:is ground
+next4 3
+4 6
+next4 5
+current4 5:is ground
+next5 5
+5 2
+next5 1
+5 3
+next5 2
+current5 2:is ground
+next6 2
+5 4
+next5 3
+current5 3:is ground
+next6 3
+5 6
+next5 5
+0
