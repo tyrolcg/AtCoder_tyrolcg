@@ -199,6 +199,22 @@
     <ClCompile Include="ABC323\A.cpp" />
     <ClCompile Include="ABC323\B.cpp" />
     <ClCompile Include="ABC323\C.cpp" />
+    <ClCompile Include="ABC325\A.cpp" />
+    <ClCompile Include="ABC325\B.cpp" />
+    <ClCompile Include="ABC325\C.cpp" />
+    <ClCompile Include="ABC329\A.cpp" />
+    <ClCompile Include="ABC329\B.cpp" />
+    <ClCompile Include="ABC329\C.cpp" />
+    <ClCompile Include="ABC330\C.cpp" />
+    <ClCompile Include="ABC341\A.cpp" />
+    <ClCompile Include="ABC341\B.cpp" />
+    <ClCompile Include="ABC341\C.cpp" />
+    <ClCompile Include="ABC346\A.cpp" />
+    <ClCompile Include="ABC346\B.cpp" />
+    <ClCompile Include="ABC346\C.cpp" />
+    <ClCompile Include="ABC347\A.cpp" />
+    <ClCompile Include="ABC347\B.cpp" />
+    <ClCompile Include="ABC347\C.cpp" />
     <ClCompile Include="ABS\ABS1.cpp" />
     <ClCompile Include="ABS\ABS2.cpp" />
     <ClCompile Include="ABS\ABS3.cpp" />
@@ -212,6 +228,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ABC309" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="abcsetup\abcSetup.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
