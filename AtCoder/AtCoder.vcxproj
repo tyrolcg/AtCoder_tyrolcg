@@ -215,6 +215,10 @@
     <ClCompile Include="ABC347\A.cpp" />
     <ClCompile Include="ABC347\B.cpp" />
     <ClCompile Include="ABC347\C.cpp" />
+    <ClCompile Include="ABC348\A.cpp" />
+    <ClCompile Include="ABC348\B.cpp" />
+    <ClCompile Include="ABC348\C.cpp" />
+    <ClCompile Include="ABC348\D.cpp" />
     <ClCompile Include="ABS\ABS1.cpp" />
     <ClCompile Include="ABS\ABS2.cpp" />
     <ClCompile Include="ABS\ABS3.cpp" />
@@ -227,6 +231,7 @@
     <ClCompile Include="Tenkei90\008.cpp" />
     <ClCompile Include="Tenkei90\010.cpp" />
     <ClCompile Include="Tenkei90\012.cpp" />
+    <ClCompile Include="Tenkei90\013.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ABC309" />
